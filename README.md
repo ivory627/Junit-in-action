@@ -34,3 +34,6 @@
 - <a href="https://ivory-room.tistory.com/95">JUnit 핵심 (2) 중첩 테스트 / 태그 테스트 / 단언문 / 가정문</a>
 - <a href="https://ivory-room.tistory.com/96">JUnit 핵심 (3) 의존성 주입 / 반복 테스트 / 파라미터 테스트 / 동적 테스트 / Hamcrest vs AssertJ</a>
 
+### 3장 JUnit 아키텍처, 4장 JUnit4에서 JUnit5로 전환하기
+
+- <a href="https://ivory-room.tistory.com/97">JUnit4에서 JUnit5로 마이그레이션</a>
