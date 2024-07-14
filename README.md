@@ -45,3 +45,7 @@
 ### 6장 소프트웨어 테스트 품질
 
 - <a href="https://ivory-room.tistory.com/99">소프트웨어 테스트 품질</a>
+
+### 7장 스텁을 활용한 거친 테스트
+
+- <a href="https://ivory-room.tistory.com/100">스텁을 활용한 테스트</a>
