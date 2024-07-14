@@ -37,3 +37,11 @@
 ### 3장 JUnit 아키텍처, 4장 JUnit4에서 JUnit5로 전환하기
 
 - <a href="https://ivory-room.tistory.com/97">JUnit4에서 JUnit5로 마이그레이션</a>
+
+### 5장 소프트웨어 테스트 원칙
+
+- <a href="https://ivory-room.tistory.com/98">소프트웨어 테스트 원칙과 유형</a>
+
+### 6장 소프트웨어 테스트 품질
+
+- <a href="https://ivory-room.tistory.com/99">소프트웨어 테스트 품질</a>
