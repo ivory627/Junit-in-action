@@ -30,13 +30,16 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-	testImplementation("junit:junit:4.13.2")
+//	testImplementation("junit:junit:4.13.2")
 	testRuntimeOnly("org.junit.vintage:junit-vintage-engine:5.10.3")
 	testImplementation("org.junit.jupiter:junit-jupiter:5.10.3")
 	implementation "org.springframework.boot:spring-boot-starter-jetty"
 	testImplementation group: 'org.easymock', name: 'easymock', version: '5.4.0'
 	testImplementation group: 'org.jmock', name: 'jmock-junit5', version: '2.13.1'
+	testImplementation group: 'org.jmock', name: 'jmock-imposters', version: '2.13.1'
 	testImplementation group: 'org.mockito', name: 'mockito-junit-jupiter', version: '5.13.0'
+
+	testImplementation group: 'com.h2database', name: 'h2', version: '2.3.232'
 
 }
 
